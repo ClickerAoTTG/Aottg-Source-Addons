@@ -1,2 +1,2 @@
 # Aottg-Source-Addons
-AoTTG Source Addons
+AoTTG Mod Addons for you project!
